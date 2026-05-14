@@ -1,18 +1,6 @@
 # GreenLens
 
-**Hyperlocal Rooftop Solar Intelligence for India**
-
----
-
-## The Team - RoofWatt
-
-| Name | Roll Number | Role |
-|---|---|---|
-| Rehaan Paul | 23052094 | Team Leader |
-| Soumyadip Nath | 23052115 | Member |
-| Debraj Ray | 23052074 | Member |
-| Arghya Patra | 23052067 | Member |
-
+**Hyperlocal Rooftop Solar Intelligence for India*
 ---
 
 ## Problem Statement
